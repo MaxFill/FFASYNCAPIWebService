@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Maksim.Filatov/Desktop/manuals/wsdl/RTFFASYNCAPI_v01.wsdl" uri="wsdl/RTFFASYNCAPI_v01.wsdl"/>
+    <system systemId="file:/C:/Users/Maksim.Filatov/Desktop/manuals/wsdl/RTFFASYNCAPI_v01.xsd" uri="wsdl/RTFFASYNCAPI_v01.xsd"/>
+    <system systemId="file:/C:/Users/Maksim.Filatov/Desktop/manuals/wsdl/RTAPI_v01.xsd" uri="wsdl/RTAPI_v01.xsd"/>
+    <system systemId="http://fsomb.ks.rt.ru:8080/RT.FFAPI.FSOMWebService/OMSWebService?wsdl" uri="wsdl/fsomb.ks.rt.ru_8080/RT.FFAPI.FSOMWebService/OMSWebService.wsdl"/>
+    <system systemId="http://fsomb.ks.rt.ru:8080/RT.FFAPI.FSOMWebService/OMSWebService?xsd=RTFFAPI_v01.xsd" uri="wsdl/fsomb.ks.rt.ru_8080/RT.FFAPI.FSOMWebService/OMSWebService.xsd_RTFFAPI_v01.xsd"/>
+    <system systemId="http://fsomb.ks.rt.ru:8080/RT.FFAPI.FSOMWebService/OMSWebService?xsd=attributes.xsd" uri="wsdl/fsomb.ks.rt.ru_8080/RT.FFAPI.FSOMWebService/OMSWebService.xsd_attributes.xsd"/>
+    <system systemId="http://fsomb.ks.rt.ru:8080/RT.FFAPI.FSOMWebService/OMSWebService?xsd=RTAPI_v01.xsd" uri="wsdl/fsomb.ks.rt.ru_8080/RT.FFAPI.FSOMWebService/OMSWebService.xsd_RTAPI_v01.xsd"/>
+    <system systemId="http://10.42.43.114:44006/ilws/InstantLinkSOA?wsdl" uri="wsdl/10.42.43.114_44006/ilws/InstantLinkSOA.wsdl"/>
+    <system systemId="http://10.42.43.114:44006/ilws/InstantLinkSOA?xsd=1" uri="wsdl/10.42.43.114_44006/ilws/InstantLinkSOA.xsd_1.xsd"/>
+    <system systemId="http://10.42.43.114:44006/ilws/InstantLinkSOA?wsdl=1" uri="wsdl/10.42.43.114_44006/ilws/InstantLinkSOA.wsdl_1.wsdl"/>
+</catalog>
